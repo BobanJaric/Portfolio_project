@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-Next.js tutorial
+Learning Next.js by creating own portfolio
